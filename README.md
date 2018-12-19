@@ -14,4 +14,4 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-Edited again to test webhook configuration in jenkins as part of lab
+Edited again to test webhook configuration in jenkins as part of Jenkinslab
